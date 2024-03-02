@@ -206,6 +206,10 @@
     color: #fff;
 }
 
+.lista-horarios h3:hover {
+    color: #604829;
+}
+
 .lista-horarios li div {
     width: 70%;
     height: 1px;
